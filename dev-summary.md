@@ -8,7 +8,7 @@ description: update from GitBook app , this is the desc subtitle content add fro
 
 1. google账号：youlandeshaqiu@gmail.com
 2. github账号：youlandeshaqiu@gmail.com 密码：github@notfoundqp
-3. gitbook账号：使用github账号：youlandeshaqiu@gmail.com
+3. \<font color="red">gitbook账号\</font>：使用github账号：youlandeshaqiu@gmail.com
 
 ## 本地私有知识库管理
 
